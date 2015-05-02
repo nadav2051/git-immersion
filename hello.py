@@ -1,3 +1,4 @@
+# Author: Nadav Luzzato (nadav2051@gmail.com)
 import sys
 name = "World"
 # Comment for git
